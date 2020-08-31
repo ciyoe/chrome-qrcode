@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 window.addEventListener('pageshow', function(event) {
-    console.log('after , pageshow :',event);
     generator(location.href);
 
 });

@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "QRCoder",
+    "version": "0.1.0",
+    "description": "generate a qrcode",
+    "icons": {
+      "16": "qrcode.png",
+      "48": "qrcode.png",
+      "128": "qrcode.png"
+    },
+    "browser_action": {
+      "default_title": "QRCoder",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "tabs"
+    ]
+  }

@@ -1,2 +1,2 @@
 # chrome-qrcode
-chrome qrcode ext
+generate qrcode of current tab url
